@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a sofware developer from Ukraine, writing JavaScript code daily. My main specializations are React, Vue, and Node.js.
+I am a sofware developer from Ukraine, writing JavaScript code daily. I construct complex UI solution with Vue.js.
 
-### Buzzwords 
-JavaScript, React, Redux, Vue.js, Node.js, Koa, Express, TypeScript, HTML, CSS, SASS, SQL, Git.
+### Buzzwords
+JavaScript, Vue.js, HTML, CSS, SASS.
